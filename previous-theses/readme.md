@@ -10,11 +10,11 @@
 ## Αρχεία/Τίτλοι
 
 **2015**
-* [Σχεδιασμός και υλοποίηση διαδικτυακής υπηρεσίας για την καταγραφή και ανάλυση των ενεργειών των χρηστών πάνω σε ψηφιακούς γεωγραφικούς χάρτες](https://github.com/courses-ionio/thesis/blob/master/previous-theses/pardalis.pdf)
+* [Σχεδιασμός και υλοποίηση διαδικτυακής υπηρεσίας για την καταγραφή και ανάλυση των ενεργειών των χρηστών πάνω σε ψηφιακούς γεωγραφικούς χάρτες](https://github.com/courses-ionio/thesis/blob/master/previous-theses/pardalis.pdf).
 
 
 **2013**
-* [Σύστημα παρακολούθησης κοινωνικών φαινομένων σε πραγματικό χρονο μέσω της χρήσης κοινωνικών δικτύων](https://github.com/courses-ionio/thesis/blob/master/previous-theses/talvis.pdf)
+* [Σύστημα παρακολούθησης κοινωνικών φαινομένων σε πραγματικό χρονο μέσω της χρήσης κοινωνικών δικτύων](https://github.com/courses-ionio/thesis/blob/master/previous-theses/talvis.pdf).
 
 
 
