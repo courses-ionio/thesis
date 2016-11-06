@@ -14,7 +14,7 @@
 
 
 **2013**
-* [2013] [Σύστημα παρακολούθησης κοινωνικών φαινομένων σε πραγματικό χρονο μέσω της χρήσης κοινωνικών δικτύων](https://github.com/courses-ionio/thesis/blob/master/previous-theses/talvis.pdf)
+* [Σύστημα παρακολούθησης κοινωνικών φαινομένων σε πραγματικό χρονο μέσω της χρήσης κοινωνικών δικτύων](https://github.com/courses-ionio/thesis/blob/master/previous-theses/talvis.pdf)
 
 
 
