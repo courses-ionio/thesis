@@ -1,6 +1,5 @@
-# [thesis] (http://www.merriam-webster.com/dictionary/thesis)
-noun the·sis \ˈthē-səs 
-*A dissertation embodying results of original research and especially substantiating a specific view; especially :  one written by a candidate for an academic degree*
+# thesis
+noun the·sis \ˈthē-səs
 
 Δημιουργήσαμε αυτόν τον χώρο προκειμένου να υπάρχει ένας σημείο αναφοράς για κάθε φοιτητή/-ια που εκπονεί την **πτυχιακή** του/της εργασία.
 
