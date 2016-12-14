@@ -30,4 +30,4 @@ _Παρακαλείστε να μη δημιουργείτε αρχεία έξω
 
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
-[Βίντεο](https://www.youtube.com/watch?v=hvCRkCm5uiI&feature=youtu.be) με οδηγίες για την εγγραφή και χρήση του Github στο μάθημα Κινητά και Κοινωνικά Μέσα που θα σας φανούν χρήσιμες και στο μάθημα Πολυμέσα.
+[Βίντεο](https://www.youtube.com/watch?v=hvCRkCm5uiI&feature=youtu.be) με οδηγίες για την εγγραφή και χρήση του Github στο μάθημα Κινητά και Κοινωνικά Μέσα που θα σας φανούν χρήσιμες και στο παρόν repository.
