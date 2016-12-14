@@ -14,7 +14,7 @@
 
 
 
-*Χρήσιμοι σύνδεσμοι:
+###Χρήσιμοι σύνδεσμοι:
 
 [Tutorial για τη χρήση του Windows Github και για τη δημιουργία φακέλου για την εργασία σας](https://github.com/courses-ionio/mm/blob/master/tutorial/README.md)
 
