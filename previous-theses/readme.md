@@ -9,9 +9,11 @@
 
 ## Αρχεία/Τίτλοι
 
+**2017**
+* [Πλατφόρμα εκμάθησης με χρήση video και ανάλυση διαδράσεων για χρήση από καθηγητές](https://github.com/courses-ionio/thesis/tree/master/previous-theses/sagiadinos/)
+
 **2015**
 * [Σχεδιασμός και υλοποίηση διαδικτυακής υπηρεσίας για την καταγραφή και ανάλυση των ενεργειών των χρηστών πάνω σε ψηφιακούς γεωγραφικούς χάρτες](https://github.com/courses-ionio/thesis/blob/master/previous-theses/pardalis/).
-* [Πλατφόρμα εκμάθησης με χρήση video και ανάλυση διαδράσεων για χρήση από καθηγητές](https://github.com/courses-ionio/thesis/tree/master/previous-theses/ourschool)
 
 **2013**
 * [Σύστημα παρακολούθησης κοινωνικών φαινομένων σε πραγματικό χρονο μέσω της χρήσης κοινωνικών δικτύων](https://github.com/courses-ionio/thesis/blob/master/previous-theses/talvis/).
