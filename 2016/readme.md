@@ -43,10 +43,10 @@
 Αναλυτικές οδηγίες παρέχονται στους συνδέσμους παρακάτω, καθώς και στα επιμέρους αποθετήρια των εργασιών.
 *Οι εικόνες (**screenshots**) των οδηγιών που ακολουθούν είναι ενδεικτικές.*
 
-- [x] Για **εγγραφή**, πατήστε [εδώ]().
-- [x] Για **επεξεργασία** και **υποβολή** παραδοτέου, πατήστε [εδώ]().
-- [x] Για **προσθήκη εικόνας**, πατήστε [εδώ]().
-- [x] [**Διαγραφή** αρχείου]().
+- [x] Για **εγγραφή**, πατήστε [εδώ](https://github.com/courses-ionio/thesis/blob/master/tutorial/registration.md).
+- [x] Για **επεξεργασία** και **υποβολή** παραδοτέου, πατήστε [εδώ](https://github.com/courses-ionio/thesis/blob/master/tutorial/productsubmit.md).
+- [x] Για **προσθήκη εικόνας**, πατήστε [εδώ](https://github.com/courses-ionio/thesis/blob/master/tutorial/insertimage.md).
+- [x] [**Διαγραφή** αρχείου](https://github.com/courses-ionio/thesis/blob/master/tutorial/delete.md).
 
 *Σας υπενθυμίζουμε ότι ο πιο εύκολος τρόπος χρήσης του Github είναι μέσω της σελίδας του.*
 
