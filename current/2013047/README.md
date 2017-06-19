@@ -1,7 +1,6 @@
 ON/MO: Ιωάννης Αντωνόπουλος
 
- A.M: Π2013047
- Θέμα πτυχιακής:Ανάπτυξη Εφαρμογής για κοινωνικά μέσα δικτύωσης
+A.M: Π2013047 Θέμα πτυχιακής:Ανάπτυξη Εφαρμογής για κοινωνικά μέσα δικτύωσης
 
 ΚΕΦΑΛΑΙΟ 1
 
@@ -229,9 +228,7 @@ Blogs
 απόψεις σχετικά με το πόσο ανούσια είναι η συμμετοχή σε
 αυτά[[14]](#bookmark165).
 
-ΚΕΦΑΛΑΙΟ 3
-ΑΝΑΛΥΣΗ ΚΟΙΝΩΝΙΚΟΥ ΔΙΚΤΥΟΥ
-====================================
+ΚΕΦΑΛΑΙΟ 3 ΑΝΑΛΥΣΗ ΚΟΙΝΩΝΙΚΟΥ ΔΙΚΤΥΟΥ ====================================
 
 Εισαγωγή
 --------
@@ -860,104 +857,316 @@ media, είναι σημαντικό οι εργαζόμενοι να έχουν
     approach. ICWSM'2007 Boulder, Colorado, USA available at
     http://icwsm.org/papers/2--Hsu-Lancaster-Paradesi-Weninger.pdf,
 
-15. 2007.
-
-16. Tufekci Z., Grooming, gossip, Facebook and MySpace: What can we learn about
+15. Tufekci Z., Grooming, gossip, Facebook and MySpace: What can we learn about
     these sites from those who won’t assimilate? Information, Communication &
     Society, 2008. 11: p. 544-564.
 
-17. Donath, J., Signals in Social Supernets. Journal of Computer-Mediated
+16. Donath, J., Signals in Social Supernets. Journal of Computer-Mediated
     Communication, 2008. **13**: p. 231-251.
 
-18. N, J.A., Looking at, looking up or keeping up with people? Motives and use
+17. N, J.A., Looking at, looking up or keeping up with people? Motives and use
     of Facebook. Twenty-Sixth Annual SIGCHI Conference on Human Factors in
     Computing Systems available at
 
-19. http://digitalinnovationtoday.com/downloads/Joinson Facebook.pdf,
+18. http://digitalinnovationtoday.com/downloads/Joinson Facebook.pdf,
 
-20. 2008.
-
-21. Kadushin, C., Some Basic Network Concepts and Propositions. Chapter 2 in
+19. Kadushin, C., Some Basic Network Concepts and Propositions. Chapter 2 in
     Introduction of Network theory available at
     *http://melander335.wdfiles.com/local--files/reading- history/kadushin.pdf,*
     **2004.**
 
-22. Scott, J., Social network analysis a Handbook. London, Sage Publications
+20. Scott, J., Social network analysis a Handbook. London, Sage Publications
     available at, 1987.
 
-23. Hall, S.G., Adolescence. Its Psychology and Its Relation to Psychology,
+21. Hall, S.G., Adolescence. Its Psychology and Its Relation to Psychology,
     Anthropology, Sociology, Sex, Crime, Religion. Two Volumes.
     https://archive.org/details/adolescenceitsps002hall, 1904.
 
-24. Moreno, J.L., Who Shall Survive. Beacon Press New York, 1934.
+22. Moreno, J.L., Who Shall Survive. Beacon Press New York, 1934.
 
-25. French, J.R., Raven, B, The Bases of Social Power Chapter 20 Studies in
+23. French, J.R., Raven, B, The Bases of Social Power Chapter 20 Studies in
     Social Power. D. Cartwright (Ed.), Ann Arbor, Mich.: Institute for Social
     Itcsearch, available at
 
-26. *http://www.communicationcache.com/uploads/1/0/8/8/10887248/the b ases of
+24. *http://www.communicationcache.com/uploads/1/0/8/8/10887248/the b ases of
     social power - chapter 20.pdf,* 1959.
 
-27. Grannoveter, M.S., The strenght of weak ties. American Journal of Sociology,
-    1973. 78: p. 1360-1380.
+25. Grannoveter, M.S., The strenght of weak ties. American Journal of Sociology,
 
-28. Homans, G., The Human Group. Routledge available at
+    1.  78: p. 1360-1380.
+
+26. Homans, G., The Human Group. Routledge available at
     *http://www.google.gr/books?id=9 JSdpKtPOEC&dq=The+Human+Gro
     up&lr=&hl=el&source=gbs navlinks s,* 1998.
 
-29. McCormick, Τ.Η., Moussa,A., Ruf,A, Measuring social distance using
+27. McCormick, Τ.Η., Moussa,A., Ruf,A, Measuring social distance using
     indirectly observed network data.
 
-30. *http://www.stat.washington.edu/\~tylermc/pubs/mccormick twomeasures.pdf.*
+28. *http://www.stat.washington.edu/\~tylermc/pubs/mccormick twomeasures.pdf.*
 
-31. Wellman, B., The community question. American Journal of Sociology, 1979.
+29. Wellman, B., The community question. American Journal of Sociology, 1979.
     84: p. 1201-1301.
 
-32. Le Roux, B., Rouanete, H, Multiple Correspondence Analysis. SAGE 2010
+30. Le Roux, B., Rouanete, H, Multiple Correspondence Analysis. SAGE 2010
     available at
 
-33. *http://www.google.gr/books?id=GWsHakQGEHsC&dq=Multiple+Corres
+31. *http://www.google.gr/books?id=GWsHakQGEHsC&dq=Multiple+Corres
     pondence+Analysis.&lr=&hl=el&source=gbs navlinks s,* 2010.
 
-34. Sailer, L.D., Structural Equivalence: Meaning and Definition, Computation
+32. Sailer, L.D., Structural Equivalence: Meaning and Definition, Computation
     and Application. Social Networks,, 1978. 1: p. 73-90.
 
-35. Freeman, L., The Development of Social Network Analysis—with an Emphasis on
+33. Freeman, L., The Development of Social Network Analysis—with an Emphasis on
     Recent Events. http://moreno.ss.uci.edu/91 .pdf.
 
-36. Wellman, B., Berkowitz, S.D, Social Structures: A Network Approach. CUP
+34. Wellman, B., Berkowitz, S.D, Social Structures: A Network Approach. CUP
     Archive available at
 
-37. *http://books.google.gr/books?id=XIw4AAAAIAAJ&hl=el&source=gbs n avlinks s,*
-    1988.
+35. *http://books.google.gr/books?id=XIw4AAAAIAAJ&hl=el&source=gbs n avlinks s,*
 
-38. O'Malley, J., Arbesman, S., Steiger, D.M, Egocentric Social Network
+36. O'Malley, J., Arbesman, S., Steiger, D.M, Egocentric Social Network
     Structure, Health, and Pro-Social Behaviors in a National Panel Study of
     Americans. PLoS ONE, 2012. 7.
 
-39. Hansen, W.B.a.R., Eric L, Network Genie User Manual.
+37. Hansen, W.B.a.R., Eric L, Network Genie User Manual.
     https://secure.networkgenie.com/admin/documentation/Network\_Genie
     \_Manual.pdf, 2009.
 
-40. Twitter and social networks cost U.K. businesses.” Morse Plc. (Δελτίο
+38. Twitter and social networks cost U.K. businesses.” Morse Plc. (Δελτίο
     Τύπου), Οκτώβριος 2009.
 
-41. Manpower Inc., Employer Perspectives on Social Networking Survey, 2009.
+39. Manpower Inc., Employer Perspectives on Social Networking Survey, 2009.
     Manpower Inc., ό.π.
 
-42. Manpower Inc., ό.π.
+40. Manpower Inc., ό.π.
 
-43. Burson-Marsteller and Proof Digital, Fortune 100 Social Media Study, 2009.
+41. Burson-Marsteller and Proof Digital, Fortune 100 Social Media Study, 2009.
 
-44. Palo Alto Networks, The Application Usage and Risk Report, Άνοιξη 2009.
+42. Palo Alto Networks, The Application Usage and Risk Report, Άνοιξη 2009.
 
-45. “Capgemini adopts social networking tools for knowledge management,”
+43. “Capgemini adopts social networking tools for knowledge management,”
     InfoWorld, Μάιος 2009.
 
-46. Deloitte LLP, 2009 Ethics & Workplace Survey, 2009
+44. Deloitte LLP, 2009 Ethics & Workplace Survey, 2009
 
-47. Burson-Marsteller, ό.π.
+45. Burson-Marsteller, ό.π.
 
-48. Manpower Inc., ό.π.
+46. Manpower Inc., ό.π.
 
-49. Nestlé, www.adeliciousdilemma.com, 2009.
+47. Nestlé, www.adeliciousdilemma.com, 2009.
+
+Δημιουργία εφαρμογής στο Facebook
+=================================
+
+Εξερευνήστε τη σελίδα προγραμματιστών του Facebook (developers.facebook.com).
+-----------------------------------------------------------------------------
+
+Εδώ μπορείτε να βρείτε tutorials, εξηγήσεις και εργαλεία για να κάνετε την
+εφαρμογή σας στο Facebook την καλύτερη δυνατή. Αυτός είναι επίσης ο τόπος όπου
+θα εγγραφείτε ως προγραμματιστής και θα κατεβάσετε την εφαρμογή προγραμματιστή.
+
+![http://pad1.whstatic.com/images/thumb/1/12/Create-a-Facebook-Application-Step-7-Version-4.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-7-Version-4.jpg](media/e3336a78101bb53cfbe75b7b551b2ffc.jpg)
+
+http://pad1.whstatic.com/images/thumb/1/12/Create-a-Facebook-Application-Step-7-Version-4.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-7-Version-4.jpg
+
+Εικόνα 1
+
+Εγγραφή ως προγραμματιστής
+--------------------------
+
+Η εγγραφή σας ως προγραμματιστής γίνεται απλά κάνοντας κλικ στο κουμπί «Οι
+εφαρμογές μου» από την επάνω γραμμή πλοήγησης, τσεκάρεται την επιλογή ότι ι
+συμφωνείτε με τους όρους και τις προϋποθέσεις στο επόμενο αναδυόμενο παράθυρο
+και έπειτα είστε έτοιμοι να χρησιμοποιήσετε το Facebook Canvas.
+
+![http://pad3.whstatic.com/images/thumb/8/84/Create-a-Facebook-Application-Step-8-Version-4.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-8-Version-4.jpg](media/1c572308a1a18e28717d41cd582938b6.jpg)
+
+http://pad3.whstatic.com/images/thumb/8/84/Create-a-Facebook-Application-Step-8-Version-4.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-8-Version-4.jpg
+
+Εικόνα 2
+
+Επιλογή του καμβά της πλατφόρμας σας
+------------------------------------
+
+Στην ιστοσελίδα του προγραμματιστή, επιλέξτε Καμβάς κάνοντας κλικ στην επιλογή
+"Οι εφαρμογές μου" από την επάνω γραμμή πλοήγησης. Επιλέγοντας "Προσθήκη νέας
+εφαρμογής" στο αναπτυσσόμενο μενού και επιλέγοντας "πλατφόρμα Facebook" ως
+πλατφόρμα έχετε επιλέξει τον καμβά τον οποίο θα εμφανίζεται.
+
+![http://pad1.whstatic.com/images/thumb/7/7a/Create-a-Facebook-Application-Step-9.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-9.jpg](media/6a3d3434896d3b0e045d58f7c71b1055.jpg)
+
+http://pad1.whstatic.com/images/thumb/7/7a/Create-a-Facebook-Application-Step-9.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-9.jpg
+
+Εικόνα 3
+
+Μεταβείτε στην Επισκόπηση καμβά
+-------------------------------
+
+Κάντε κλικ στην καρτέλα docs στην επάνω μπλε γραμμή πλοήγησης για να μεταβείτε
+στην αρχική σελίδα με τα αρχεία τεκμηρίωσης ή μεταβείτε στο:
+"developers.facebook.com/docs/" . Στα αριστερά θα υπάρχουν διάφορες επιλογές,
+συμπεριλαμβανομένων των "Παιχνιδιών", Κάντε κλικ στα παιχνίδια θα δείτε την
+επιλογή "Καμβάς". Εδώ μπορείτε να εξοικειωθείτε με όλες τις ιδιότητες του καμβά
+Facebook [4].
+
+![http://pad2.whstatic.com/images/thumb/a/a3/Create-a-Facebook-Application-Step-10.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-10.jpg](media/3cb9f6f1b9b0f7429ab59f4571f9b019.jpg)
+
+http://pad2.whstatic.com/images/thumb/a/a3/Create-a-Facebook-Application-Step-10.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-10.jpg
+
+Εικόνα 4
+
+Δημιουργήστε τη νέα σας εφαρμογή
+--------------------------------
+
+Για τη δημιουργία μίας νέας εφαρμογής επιλέγετε "Οι εφαρμογές μου" από την
+επάνω, μπλε γραμμή πλοήγησης και πατάτε "Προσθήκη νέας εφαρμογής" από το
+αναπτυσσόμενο μενού ή απλά εισάγετε την ακόλουθη διεύθυνση URL:
+developers.facebook.com/apps. Κάντε κλικ στην επιλογή "Δημιουργία νέας
+εφαρμογής" στο πράσινο κουμπί στα δεξιά της σελίδας.
+
+Το Facebook θα ελέγξει το όνομα της εφαρμογής σας για να δει αν είναι διαθέσιμο
+προτού σας επιτρέψει να συνεχίσετε.
+
+![http://pad3.whstatic.com/images/thumb/9/9a/Create-a-Facebook-Application-Step-11.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-11.jpg](media/c82b0366983473ecf00bfa4125f2b0a7.jpg)
+
+http://pad3.whstatic.com/images/thumb/9/9a/Create-a-Facebook-Application-Step-11.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-11.jpg
+
+Εικόνα 5
+
+Επαλήθευση Χρήστη
+-----------------
+
+Ως μέρος του ελέγχου ταυτότητας και της ασφάλειας του Facebook, θα πρέπει να
+επαληθεύσετε ότι είστε ο χρήστης που λέτε ότι είστε και ότι είστε άνθρωπος. Θα
+χρειαστεί να δώσετε κάποιες προσωπικές πληροφορίες, όπως τον αριθμό τηλεφώνου ή
+τις πληροφορίες της πιστωτικής σας κάρτας, και να πληκτρολογήσετε ένα κείμενο
+που σας δίνεται ώστε να αποδείξετε ότι δεν είστε ρομπότ (Captcha text).
+
+![http://pad2.whstatic.com/images/thumb/b/bb/Create-a-Facebook-Application-Step-12.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-12.jpg](media/a98273b4146e5d53147f1684a46bb192.jpg)
+
+http://pad2.whstatic.com/images/thumb/b/bb/Create-a-Facebook-Application-Step-12.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-12.jpg
+
+Εικόνα 6
+
+Εισαγωγή δεδομένων
+------------------
+
+Η εφαρμογή σας στο Facebook, αν και δημιουργήθηκε, δεν έχει περιεχόμενο. Θα
+χρειαστεί να κάνετε χρήση του δείγματος κώδικα, να γράψετε ο ίδιος τον κώδικα ή
+να αναπτύξετε το περιεχόμενό σας.
+
+![http://pad1.whstatic.com/images/thumb/e/ec/Create-a-Facebook-Application-Step-13.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-13.jpg](media/55565c4fca4aeee10054510069084417.jpg)
+
+http://pad1.whstatic.com/images/thumb/e/ec/Create-a-Facebook-Application-Step-13.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-13.jpg
+
+Εικόνα 7
+
+Εισαγωγή δεδομένων στην εφαρμογή
+================================
+
+Αλλαγή ρυθμίσεων
+----------------
+
+Θα χρειαστεί να αλλάξετε τις ρυθμίσεις του λογαριασμού σας για να μπορείτε να
+βλέπετε τη σελίδα. Παρόλο που πληρώνετε για την ασφαλή φιλοξενία της εφαρμογής,
+θα είναι διαθέσιμη μόνο στα άτομα που υποδεικνύετε μέσω των ρυθμίσεών σας. Για
+να αλλάξετε τις ρυθμίσεις λογαριασμού σας επιλέγεται την πτυσσόμενη καρτέλα
+“Ρυθμίσεων” στην μπλε γραμμή πλοήγησης και διαλέγετε “Ρυθμίσεις προγραμματιστή”.
+Στον πίνακα αριστερά, θα πρέπει να δείτε την επικεφαλίδα "Ασφάλεια", στην οποία
+μπορείτε να κάνετε κλικ για να αποκτήσετε πρόσβαση σε ένα νέο μενού, όπου θα
+υπάρχει η επιλογή "Ασφαλής περιήγηση". Θα χρειαστεί να απενεργοποιήσετε αυτήν τη
+λειτουργία και να αποθηκεύσετε τις αλλαγές.
+
+Με την ενέργεια αυτή θα μπορείτε να λάβετε προειδοποιητικά μηνύματα που σας
+ζητούν να ενεργοποιήσετε την ασφαλή περιήγηση, αλλά για αναπτυξιακούς σκοπούς,
+θα πρέπει να τα αγνοήσετε ενώ εργάζεστε στην εφαρμογή σας. Επίσης όσο έχετε
+απενεργοποιημένη την ασφαλή περιήγηση, θα μπορείτε να προβάλετε την εφαρμογή
+σας. Όσοι επιθυμούν να δουν την εφαρμογή σας σε αυτό το στάδιο θα πρέπει επίσης
+να απενεργοποιήσουν την ασφαλή περιήγηση
+
+![http://pad1.whstatic.com/images/thumb/1/1b/Create-a-Facebook-Application-Step-14.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-14.jpg](media/844d9e44cf988bca9ec1171775eb5d52.jpg)
+
+http://pad1.whstatic.com/images/thumb/1/1b/Create-a-Facebook-Application-Step-14.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-14.jpg
+
+Εικόνα 8
+
+Δοκιμή με τη χρήση του sandbox mode κατά τη διάρκεια της δημιουργίας της εφαρμογής
+----------------------------------------------------------------------------------
+
+Η λειτουργία αυτή θα περιορίσει τον αριθμό των ατόμων που επιθυμούν να δουν την
+εφαρμογή σας και είναι ιδανικό για το αναπτυξιακό στάδιο. [5] Αυτές οι
+ρυθμίσεις, μαζί με άλλα δικαιώματα προβολής, μπορείτε να τις αναζητήσετε στο
+μενού “Ρυθμίσεις λογαριασμού” επιλέγοντας "Κατάσταση και κριτική".
+
+![http://pad2.whstatic.com/images/thumb/4/42/Create-a-Facebook-Application-Step-15.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-15.jpg](media/f9a12fa90f2cae86dec5539b3a01f1a8.jpg)
+
+http://pad2.whstatic.com/images/thumb/4/42/Create-a-Facebook-Application-Step-15.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-15.jpg
+
+Εικόνα 9
+
+Ανεβάστε ιστοσελίδες στον online server
+---------------------------------------
+
+Ο διακομιστής (server) σας θα κρατήσει τις πληροφορίες που θα χρησιμοποιήσει το
+Facebook για την τροφοδοσία της εφαρμογής σας και αυτές οι πληροφορίες παίρνουν
+τη μορφή κωδικοποιημένων ιστοσελίδων, πιθανώς σε μορφή αρχείου HTML ή PHP.
+Δημιουργήστε έναν κατάλληλο κατάλογο για τη νέα σας εφαρμογή και μεταφορτώστε τα
+αρχεία σε αυτήν.
+
+![http://pad2.whstatic.com/images/thumb/2/29/Create-a-Facebook-Application-Step-16.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-16.jpg](media/ddc7d06795bd29a7f3b8d5363f860296.jpg)
+
+http://pad2.whstatic.com/images/thumb/2/29/Create-a-Facebook-Application-Step-16.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-16.jpg
+
+Εικόνα 10
+
+Χρησιμοποιήστε προ-κωδικοποιημένα αρχεία PHP
+--------------------------------------------
+
+Το Facebook διαθέτει τον προπαρασκευασμένο κώδικα στους χρήστες για να βοηθήσει
+με την ενσωμάτωση της εφαρμογής σας και άλλα προβλήματα. Συνήθως, αυτός ο
+κώδικας περιέχει ενέργειες όπου θα πρέπει να βάλετε το αναγνωριστικό της
+εφαρμογής σας (ID) και τον μυστικό κωδικό αναγνώρισης (ID code).
+
+Βρείτε τον αναγνωριστικό της εφαρμογής σας και τους μυστικούς κωδικούς
+αναγνώρισης, ελέγχοντας τη σελίδα ρυθμίσεων λογαριασμού, όπου μπορείτε να τα
+βρείτε με τα στοιχεία του προφίλ σας. Όταν εξετάζετε τον κώδικα, μπορείτε να
+βρείτε το σημείο όπου θα εφαρμόσετε τις πληροφορίες ταυτοποίησης αναζητώντας τις
+καταχωρήσεις "appId" και "secret".
+
+![http://pad3.whstatic.com/images/thumb/e/eb/Create-a-Facebook-Application-Step-17.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-17.jpg](media/be30e3521871e295338880fa6128a39a.jpg)
+
+http://pad3.whstatic.com/images/thumb/e/eb/Create-a-Facebook-Application-Step-17.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-17.jpg
+
+Εικόνα 11
+
+Δημιουργήστε τον κώδικα
+-----------------------
+
+Θα χρειαστεί να συμπληρώσετε κάποιες καθορισμένες πληροφορίες. [6] Αυτές οι
+λειτουργίες είναι συνήθως γνωστές στο χρήστη, με εξηγήσεις για το πού μπορεί να
+βρεθεί ο απαραίτητος κώδικας. Αν δεν μπορείτε να κατεβάσετε ένα αρχείο PHP αλλά
+έχετε πρόσβαση στον πλήρη κώδικα, μπορείτε να κάνετε αποκοπή του τμήματος του
+κώδικα που σας ενδιαφέρει και επικόλληση σε ένα πρόγραμμα επεξεργασίας κειμένου
+(το σημειωματάριο ++ χρησιμοποιείται ευρέως) και να αποθηκεύσετε το αρχείο με
+την τελική επέκταση ".php".
+
+![http://pad3.whstatic.com/images/thumb/8/8d/Create-a-Facebook-Application-Step-18.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-18.jpg](media/e2bf362166f643e03e98b9e2a22f3a99.jpg)
+
+http://pad3.whstatic.com/images/thumb/8/8d/Create-a-Facebook-Application-Step-18.jpg/aid261583-v4-900px-Create-a-Facebook-Application-Step-18.jpg
+
+Εικόνα 12
+
+Βιβλιογραφία
+============
+
+1.  http://www.socialmediaexaminer.com/essential-facebook-page-apps/
+
+2.  https://www.mindtools.com/pages/article/newPPM\_05.htm
+
+3.  http://www.fastcompany.com/3021690/leadership-now/the-surprising-reason-to-set-extremely-short-deadlines
+
+4.  <https://www.computerminds.co.uk/drupal-code/creating-facebook-canvas-apps-page-tabs>
+
+5.  https://developers.facebook.com/docs/apps/security
+
+6.  http://php.net/manual/en/function.require.php
