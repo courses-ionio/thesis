@@ -6,7 +6,7 @@
 
 
 ### Παραδοτέο 1
-*Δήλωση θέματος και αρχικό πλάνο ([Κάντε κλικ εδώ](https://docs.google.com/spreadsheets/d/14rwQPsfiz-VqQSt3T9S1BvyX6xghom5ZMweiSQlvLyI/edit#gid=0)) - έως 15 Νοεμβρίου*
+*Δήλωση θέματος και αρχικό πλάνο ([κάντε κλικ εδώ](https://docs.google.com/spreadsheets/d/14rwQPsfiz-VqQSt3T9S1BvyX6xghom5ZMweiSQlvLyI/edit#gid=0)) - έως 15 Νοεμβρίου*
 
 
 
