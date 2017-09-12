@@ -4,6 +4,7 @@
 
 ΑΜ: ...
 
+Χρονοδιάγραμμα/πλάνο: [Κάντε κλικ εδώ](https://docs.google.com/spreadsheets/d/14rwQPsfiz-VqQSt3T9S1BvyX6xghom5ZMweiSQlvLyI/edit#gid=0).
 
 ### Παραδοτέο 1
 *Δήλωση θέματος και αρχικό πλάνο - έως 15 Νοεμβρίου*
