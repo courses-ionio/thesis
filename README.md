@@ -5,7 +5,7 @@
 ## Παραδοτέα
 Ο τελικός βαθμός της πτυχιακής εργασίας προκύπτει από τα επιμέρους παραδοτέα ως εξής:
 
-1. Δήλωση θέματος και [αρχικό πλάνο](https://docs.google.com/spreadsheets/d/14rwQPsfiz-VqQSt3T9S1BvyX6xghom5ZMweiSQlvLyI/edit#gid=0) - έως **15 Νοεμβρίου**.
+1. [Δήλωση θέματος](https://docs.google.com/spreadsheets/d/1ONzUNgHrYxZ23YdtDsfxNh8o4w0_Cg7BC9qc9ScX244/edit?usp=sharing) και [αρχικό πλάνο](https://docs.google.com/spreadsheets/d/14rwQPsfiz-VqQSt3T9S1BvyX6xghom5ZMweiSQlvLyI/edit#gid=0) - έως **15 Νοεμβρίου**.
 2. Παρουσίαση αλλαγμένων παραδειγμάτων εφαρμογής (*10%*) - έως **9 Δεκεμβρίου**.
 3. Προσθήκη νέων λειτουργιών (*10%*) - έως **15 Ιανουαρίου**.
 4. Αλλαγές μετά από δοκιμές (*10%*) - έως **15 Φεβρουαρίου**.
