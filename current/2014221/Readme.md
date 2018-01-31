@@ -59,17 +59,17 @@
 
 Η πλήρης ανάλυση των πρώτων αναζητήσεων και σχεδιασμών βρίσκεται στα παρακάτω links αλλά είναι ιδιωτικό το repository. Δυστυχώς είναι πολύ μεγάλο το κείμενο για να το βάλω εδώ και να μην είναι ενοχλητικό.  
 
-https://github.com/kostasartKKM/MyThesis/tree/master/design/draft1 
-https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
+https://github.com/kostasartKKM/MyThesis/tree/master/design/draft1   
+https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2  
 
 Θα ανεβάσω απλά κάποια σκίτσα που είχα κάνει για τον αρχικό σχεδιασμό:  
-![rough_design_sketch1](https://imgur.com/6t5qmYR)
-![rough_design_sketch2](https://imgur.com/zWI2NcE)
-![rough_design_sketch3](https://imgur.com/in2bnI6)
-![rough_design_sketch4](https://imgur.com/33FG042)
-![rough_design_sketch5](https://imgur.com/A8b8nPt)
-![rough_design_sketch6](https://imgur.com/N3wurlq)
-![rough_design_sketch7](https://imgur.com/YknrG7m)
+![rough_design_sketch1](https://imgur.com/6t5qmYR)  
+![rough_design_sketch2](https://imgur.com/zWI2NcE)  
+![rough_design_sketch3](https://imgur.com/in2bnI6)  
+![rough_design_sketch4](https://imgur.com/33FG042)  
+![rough_design_sketch5](https://imgur.com/A8b8nPt)  
+![rough_design_sketch6](https://imgur.com/N3wurlq)  
+![rough_design_sketch7](https://imgur.com/YknrG7m)  
 
 
 
@@ -101,11 +101,11 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 Ο χρήστης για να κάνει το scanning του αντικειμένου, κατεβάζει και εκτυπώνει ένα ειδικό σχέδιο-βάση που παρέχει η vuforia, όπως επίσης και την εφαρμογή του Android (only) Vuforia 3d object scanner, και έπειτα scannarei το αντικείμενο που επιθυμεί.
 
 **Σύνδεσμοι σχετικά με το Vuforia 3d object scanner:**
--https://library.vuforia.com/articles/Training/Vuforia-Object-Scanner-Users-Guide
--https://developer.vuforia.com/downloads/tool
+-https://library.vuforia.com/articles/Training/Vuforia-Object-Scanner-Users-Guide  
+-https://developer.vuforia.com/downloads/tool  
 
-Αυτή είναι η βάση στην οποία τοποθετούμε το αντικείμενο που πρόκειται να σκανάρουμε.
-![Βάση_3dScanning_Vuforia](https://imgur.com/2VCtViV)
+Αυτή είναι η βάση στην οποία τοποθετούμε το αντικείμενο που πρόκειται να σκανάρουμε.  
+![Βάση_3dScanning_Vuforia](https://imgur.com/2VCtViV)  
 
 
 Η διαδικασία του scanning θέλει υπομονή και συνήθως απαιτεί σωστό μοντέλο.  
@@ -131,15 +131,15 @@ http://dnd.wizards.com/products/tabletop-games/board-games/castle-ravenloft-boar
 Επομένως ο παίκτης ώς μέρος του παιχνιδιού διαβάζει ασυνείδητα κάποια μορφή κώδικα, γιαυτό και θέλω να την ψάξω παραπάνω αυτήν την ιδέα (αυτό το παιχνίδι δεν έχει να κάνει με εκπαίδευση προγραμματισμού, και όμως φαίνεται να περιλαμβάνει κάποια μορφή διδασκαλίας του).
 
 
-Παρακάτω τοποθετώ φωτογραφίες απο τις δοκιμές.
-![Αρχικός_Εντοπισμός_Μινιατούρας](https://imgur.com/CShSv73)
-![Αρχικός_Εντοπισμός_Μινιατούρας2](https://imgur.com/DtIhrve)
-![Αρχικός_Εντοπισμός_Μινιατούρας3](https://imgur.com/GHSjZ5l)
-![Αρχικός_Εντοπισμός_Μινιατούρας4](https://imgur.com/ldTXxoh)
-![Παρουσίαση_Μινιατούρας](https://imgur.com/Iam1z4Y)
-![Σακουλάκι_αποθήκευσης_Ζαριών_και_ζάριαD&D](https://imgur.com/JSqy1hQ)
-![Μινιατούρα_πάνω_σε_χάρτη](https://imgur.com/mCHa6jF)
-![Σχεδιασμός_κάρτας_TURN_παίκτη](https://imgur.com/ueyCyd5)
+Παρακάτω τοποθετώ φωτογραφίες απο τις δοκιμές.  
+![Αρχικός_Εντοπισμός_Μινιατούρας](https://imgur.com/CShSv73)  
+![Αρχικός_Εντοπισμός_Μινιατούρας2](https://imgur.com/DtIhrve)  
+![Αρχικός_Εντοπισμός_Μινιατούρας3](https://imgur.com/GHSjZ5l)  
+![Αρχικός_Εντοπισμός_Μινιατούρας4](https://imgur.com/ldTXxoh)  
+![Παρουσίαση_Μινιατούρας](https://imgur.com/Iam1z4Y)  
+![Σακουλάκι_αποθήκευσης_Ζαριών_και_ζάριαD&D](https://imgur.com/JSqy1hQ)  
+![Μινιατούρα_πάνω_σε_χάρτη](https://imgur.com/mCHa6jF)  
+![Σχεδιασμός_κάρτας_TURN_παίκτη](https://imgur.com/ueyCyd5)  
 
 
 
