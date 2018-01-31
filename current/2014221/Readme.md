@@ -63,13 +63,13 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft1
 https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2  
 
 Θα ανεβάσω απλά κάποια σκίτσα που είχα κάνει για τον αρχικό σχεδιασμό:  
-![rough_design_sketch1](https://imgur.com/6t5qmYR)  
-![rough_design_sketch2](https://imgur.com/zWI2NcE)  
-![rough_design_sketch3](https://imgur.com/in2bnI6)  
-![rough_design_sketch4](https://imgur.com/33FG042)  
-![rough_design_sketch5](https://imgur.com/A8b8nPt)  
-![rough_design_sketch6](https://imgur.com/N3wurlq)  
-![rough_design_sketch7](https://imgur.com/YknrG7m)  
+![rough_design_sketch1](https://i.imgur.com/6t5qmYR.jpg)  
+![rough_design_sketch2](https://i.imgur.com/zWI2NcE.jpg)  
+![rough_design_sketch3](https://i.imgur.com/in2bnI6.jpg)  
+![rough_design_sketch4](https://i.imgur.com/33FG042.jpg)  
+![rough_design_sketch5](https://i.imgur.com/A8b8nPt.jpg)  
+![rough_design_sketch6](https://i.imgur.com/N3wurlq.jpg)  
+![rough_design_sketch7](https://i.imgur.com/YknrG7m.jpg)  
 
 
 
@@ -105,7 +105,7 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 -https://developer.vuforia.com/downloads/tool  
 
 Αυτή είναι η βάση στην οποία τοποθετούμε το αντικείμενο που πρόκειται να σκανάρουμε.  
-![Βάση_3dScanning_Vuforia](https://imgur.com/2VCtViV)  
+![Βάση_3dScanning_Vuforia](https://i.imgur.com/2VCtViV.jpg)  
 
 
 Η διαδικασία του scanning θέλει υπομονή και συνήθως απαιτεί σωστό μοντέλο.  
@@ -124,7 +124,7 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 Ενα τέτοιο παιχνίδι είναι το **Castle Ravenloft**   
 http://dnd.wizards.com/products/tabletop-games/board-games/castle-ravenloft-board-game    
 Εδώ μια κάρτα του για παράδειγμα:  
-![Κάρτα_Συμπεριφοράς_Ψευδογλώσσα](https://imgur.com/1spJsTK)
+![Κάρτα_Συμπεριφοράς_Ψευδογλώσσα](https://i.imgur.com/1spJsTK.png)
 
 Αυτές οι κάρτες θα μπορούσαν επιπλέον να επαυξηθούν.
 
@@ -132,14 +132,14 @@ http://dnd.wizards.com/products/tabletop-games/board-games/castle-ravenloft-boar
 
 
 Παρακάτω τοποθετώ φωτογραφίες απο τις δοκιμές.  
-![Αρχικός_Εντοπισμός_Μινιατούρας](https://imgur.com/CShSv73)  
-![Αρχικός_Εντοπισμός_Μινιατούρας2](https://imgur.com/DtIhrve)  
-![Αρχικός_Εντοπισμός_Μινιατούρας3](https://imgur.com/GHSjZ5l)  
-![Αρχικός_Εντοπισμός_Μινιατούρας4](https://imgur.com/ldTXxoh)  
-![Παρουσίαση_Μινιατούρας](https://imgur.com/Iam1z4Y)  
-![Σακουλάκι_αποθήκευσης_Ζαριών_και_ζάριαD&D](https://imgur.com/JSqy1hQ)  
-![Μινιατούρα_πάνω_σε_χάρτη](https://imgur.com/mCHa6jF)  
-![Σχεδιασμός_κάρτας_TURN_παίκτη](https://imgur.com/ueyCyd5)  
+![Αρχικός_Εντοπισμός_Μινιατούρας](https://i.imgur.com/CShSv73.jpg)  
+![Αρχικός_Εντοπισμός_Μινιατούρας2](https://i.imgur.com/DtIhrve.jpg)  
+![Αρχικός_Εντοπισμός_Μινιατούρας3](https://i.imgur.com/GHSjZ5l.jpg)  
+![Αρχικός_Εντοπισμός_Μινιατούρας4](https://i.imgur.com/ldTXxoh.jpg)  
+![Παρουσίαση_Μινιατούρας](https://i.imgur.com/Iam1z4Y.jpg)  
+![Σακουλάκι_αποθήκευσης_Ζαριών_και_ζάριαD&D](https://i.imgur.com/JSqy1hQ.jpg)  
+![Μινιατούρα_πάνω_σε_χάρτη](https://i.imgur.com/mCHa6jF.jpg)  
+![Σχεδιασμός_κάρτας_TURN_παίκτη](https://i.imgur.com/ueyCyd5.jpg)  
 
 
 
