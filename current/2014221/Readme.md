@@ -63,13 +63,13 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft1
 https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 
 Θα ανεβάσω απλά κάποια σκίτσα που είχα κάνει για τον αρχικό σχεδιασμό:  
-![eikona1](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan1.jpg)
-![eikona2](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan2.jpg)
-![eikona3](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan3.jpg)
-![eikona4](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan4.jpg)
-![eikona5](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan5.jpg)
-![eikona6](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan6.jpg)
-![eikona7](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ptux_scan7.jpg)
+![rough_design_sketch1](https://imgur.com/6t5qmYR)
+![rough_design_sketch2](https://imgur.com/zWI2NcE)
+![rough_design_sketch3](https://imgur.com/in2bnI6)
+![rough_design_sketch4](https://imgur.com/33FG042)
+![rough_design_sketch5](https://imgur.com/A8b8nPt)
+![rough_design_sketch6](https://imgur.com/N3wurlq)
+![rough_design_sketch7](https://imgur.com/YknrG7m)
 
 
 
@@ -105,7 +105,7 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 -https://developer.vuforia.com/downloads/tool
 
 Αυτή είναι η βάση στην οποία τοποθετούμε το αντικείμενο που πρόκειται να σκανάρουμε.
-![image1](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/ObjectScanningTargetVuforia.PNG)
+![Βάση_3dScanning_Vuforia](https://imgur.com/2VCtViV)
 
 
 Η διαδικασία του scanning θέλει υπομονή και συνήθως απαιτεί σωστό μοντέλο.  
@@ -124,7 +124,7 @@ https://github.com/kostasartKKM/MyThesis/tree/master/design/draft2
 Ενα τέτοιο παιχνίδι είναι το **Castle Ravenloft**   
 http://dnd.wizards.com/products/tabletop-games/board-games/castle-ravenloft-board-game    
 Εδώ μια κάρτα του για παράδειγμα:  
-![image2](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/CastleRavenloft_Example_Card.png)
+![Κάρτα_Συμπεριφοράς_Ψευδογλώσσα](https://imgur.com/1spJsTK)
 
 Αυτές οι κάρτες θα μπορούσαν επιπλέον να επαυξηθούν.
 
@@ -132,14 +132,14 @@ http://dnd.wizards.com/products/tabletop-games/board-games/castle-ravenloft-boar
 
 
 Παρακάτω τοποθετώ φωτογραφίες απο τις δοκιμές.
-![image2](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto5.JPG)
-![image3](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto3.JPG)
-![image4](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto6.JPG)
-![image5](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto20.jpg)
-![image6](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto17.jpg)
-![image7](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto18.jpg)
-![image8](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/foto19.jpg)
-![image9](https://github.com/kostasartKKM/MyThesis/blob/master/ASSETS/GENERAL_IMAGES/codeblocksSketch1.jpg)
+![Αρχικός_Εντοπισμός_Μινιατούρας](https://imgur.com/CShSv73)
+![Αρχικός_Εντοπισμός_Μινιατούρας2](https://imgur.com/DtIhrve)
+![Αρχικός_Εντοπισμός_Μινιατούρας3](https://imgur.com/GHSjZ5l)
+![Αρχικός_Εντοπισμός_Μινιατούρας4](https://imgur.com/ldTXxoh)
+![Παρουσίαση_Μινιατούρας](https://imgur.com/Iam1z4Y)
+![Σακουλάκι_αποθήκευσης_Ζαριών_και_ζάριαD&D](https://imgur.com/JSqy1hQ)
+![Μινιατούρα_πάνω_σε_χάρτη](https://imgur.com/mCHa6jF)
+![Σχεδιασμός_κάρτας_TURN_παίκτη](https://imgur.com/ueyCyd5)
 
 
 
