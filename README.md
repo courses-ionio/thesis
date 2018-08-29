@@ -5,7 +5,7 @@
 ## Παραδοτέα
 Ο τελικός βαθμός της πτυχιακής εργασίας προκύπτει από τα επιμέρους παραδοτέα ως εξής:
 
-- [ ] [Δήλωση θέματος](https://github.com/courses-ionio/thesis/wiki/Current-Thesis-Topics), αρχικές προδιαγραφές και [αρχικό πλάνο](https://github.com/courses-ionio/thesis/wiki/Time-plan-template-for-BSc-and-MSc-thesis) - έως **15 Νοεμβρίου**.
+- [ ] [Δήλωση θέματος](https://github.com/courses-ionio/thesis/wiki/Current-Thesis-Topics), [αρχικές προδιαγραφές](https://github.com/courses-ionio/thesis/wiki/Thesis-specifications) και [αρχικό πλάνο](https://github.com/courses-ionio/thesis/wiki/Time-plan-template-for-BSc-and-MSc-thesis) - έως **15 Νοεμβρίου**.
 - [ ] Παρουσίαση αλλαγμένων παραδειγμάτων εφαρμογής και ενημερωμένες προδιαγραφές (*10%*) - έως **9 Δεκεμβρίου**.
 - [ ] Προσθήκη νέων λειτουργιών (*10%*) - έως **15 Ιανουαρίου**.
 - [ ] Τελικές προδιαγραφές μετά από δοκιμές με χρήστες ή/και με σετ δεδομένων (*10%*) - έως **15 Φεβρουαρίου**.
